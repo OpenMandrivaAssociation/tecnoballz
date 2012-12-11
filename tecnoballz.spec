@@ -102,3 +102,10 @@ fi
 %{_iconsdir}/hicolor/32x32/apps/%{name}.xpm
 %{_datadir}/applications/%{name}.desktop
 
+
+
+%changelog
+* Tue Mar 20 2012 Andrey Bondrov <abondrov@mandriva.org> 0.92-1mdv2011.0
++ Revision: 785863
+- imported package tecnoballz
+

@@ -2,7 +2,7 @@
 
 Name:		tecnoballz
 Version:	0.92
-Release:	%mkrel 1
+Release:	2
 Summary:	A Brick Busting game
 Group:		Games/Arcade
 License:	GPLv3+

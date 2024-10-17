@@ -6,7 +6,7 @@ Release:	2
 Summary:	A Brick Busting game
 Group:		Games/Arcade
 License:	GPLv3+
-URL:		http://linux.tlk.fr/games/TecnoballZ/
+URL:		https://linux.tlk.fr/games/TecnoballZ/
 Source0:	http://linux.tlk.fr/games/TecnoballZ/download/%{name}-%{version}.tgz
 Source1:	%{name}.xpm
 Source2:	%{name}.desktop

@@ -31,6 +31,10 @@ Patch5:		tecnoballz-0.92-gcc43.patch
 # Drop setgid privileges when not needed
 Patch6:		tecnoballz-0.92-dropsgid.patch
 
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	autoconf
 BuildRequires:	SDL_image-devel
 BuildRequires:	SDL_mixer-devel
